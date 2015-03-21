@@ -14,7 +14,8 @@ int main(void)
 
     ...
 
-    if (mul(a, b, &result)) {
+    if (mul(a, b, &result))
+    {
         /* Overflow */
     }
     else
