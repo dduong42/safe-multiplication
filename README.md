@@ -1,5 +1,5 @@
 # safe-multiplication
-Multiplication function that knows when it overflows.
+Multiplication function that knows when it overflows (x86_64 only).
 
 ## Example
 
